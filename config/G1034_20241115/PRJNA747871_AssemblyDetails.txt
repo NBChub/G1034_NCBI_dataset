@@ -1,0 +1,636 @@
+# PRJNA747871 Assembly Details
+# Assembly	Level	WGS	Chrs	BioSample	Strain	Taxonomy
+GCA_035918135.1	Complete genome	undefined	2	SAMN30553454	NBC 01746	Actinacidiphila glaucinigra	
+GCA_036250345.1	Complete genome	undefined	1	SAMN30553418	NBC 01694	Actinacidiphila glaucinigra	
+GCA_036227085.1	Complete genome	undefined	1	SAMN24016624	NBC_01490	Actinoallomurus sp. NBC_01490	
+GCA_036226265.1	Complete genome	undefined	1	SAMN30553060	NBC_00399	Actinomadura citrea	
+GCA_036044095.1	Complete genome	undefined	1	SAMN30553064	NBC_00405	Actinomycetospora sp. NBC_00405	
+GCA_036053395.1	Complete genome	undefined	1	SAMN30553059	NBC_00393	Actinoplanes sp. NBC_00393	
+GCA_026342035.1	Contig	JAPENM000000000	undefined	SAMN30553067	NBC_00410	Aldersonia sp. NBC_00410	
+GCA_036116635.1	Complete genome	undefined	1	SAMN30553023	NBC_00345	Amycolatopsis sp. NBC_00345	
+GCA_036114655.1	Complete genome	undefined	1	SAMN30553025	NBC_00348	Amycolatopsis sp. NBC_00348	
+GCA_036104975.1	Complete genome	undefined	1	SAMN30553030	NBC_00355	Amycolatopsis sp. NBC_00355	
+GCA_036026695.1	Complete genome	undefined	1	SAMN24016221	NBC_00438	Amycolatopsis sp. NBC_00438	
+GCA_035982555.1	Complete genome	undefined	2	SAMN24016490	NBC_01286	Amycolatopsis sp. NBC_01286	
+GCA_035975215.1	Complete genome	undefined	1	SAMN24016505	NBC_01307	Amycolatopsis sp. NBC_01307	
+GCA_036227205.1	Complete genome	undefined	2	SAMN24016618	NBC_01480	Amycolatopsis sp. NBC_01480	
+GCA_036227105.1	Complete genome	undefined	1	SAMN24016623	NBC_01488	Amycolatopsis sp. NBC_01488	
+GCA_035963215.1	Complete genome	undefined	1	SAMN30553446	NBC_01737	Dactylosporangium sp. NBC_01737	
+GCA_036021035.1	Complete genome	undefined	1	SAMN24016218	NBC_00420	Kineococcus sp. NBC_00420	
+GCA_036243155.1	Complete genome	undefined	2	SAMN24016474	NBC_01265	Kitasatospora herbaricolor	
+GCA_036226485.1	Complete genome	undefined	2	SAMN24016462	NBC_01247	Kitasatospora herbaricolor	
+GCA_026340265.1	Contig	JAPEPK000000000	undefined	SAMN24016577	NBC_01416	Kitasatospora purpeofusca	
+GCA_026340775.1	Contig	JAPEOW000000000	undefined	SAMN24016472	NBC_01263	Kitasatospora purpeofusca	
+GCA_036200865.1	Complete genome	undefined	1	SAMN30552959	NBC_00222	Kitasatospora purpeofusca	
+GCA_036010425.1	Complete genome	undefined	3	SAMN24016427	NBC_01202	Kitasatospora purpeofusca	
+GCA_036010405.1	Complete genome	undefined	1	SAMN24016428	NBC_01203	Kitasatospora purpeofusca	
+GCA_026342405.1	Contig	JAPEMU000000000	undefined	SAMN24016199	NBC_00240	Kitasatospora sp. NBC_00240	
+GCA_041435095.1	Complete genome	undefined	4	SAMN30553005	NBC_00315	Kitasatospora sp. NBC_00315	
+GCA_041434935.1	Complete genome	undefined	3	SAMN30553044	NBC_00374	Kitasatospora sp. NBC_00374	
+GCA_036013975.1	Complete genome	undefined	1	SAMN24016228	NBC_00458	Kitasatospora sp. NBC_00458	
+GCA_036226505.1	Complete genome	undefined	3	SAMN24016461	NBC_01246	Kitasatospora sp. NBC_01246	
+GCA_036226465.1	Complete genome	undefined	1	SAMN24016464	NBC_01250	Kitasatospora sp. NBC_01250	
+GCA_036242395.1	Complete genome	undefined	2	SAMN24016475	NBC_01266	Kitasatospora sp. NBC_01266	
+GCA_026340565.1	Contig	JAPEPB000000000	undefined	SAMN24016491	NBC_01287	Kitasatospora sp. NBC_01287	
+GCA_041435235.1	Complete genome	undefined	5	SAMN24016501	NBC_01300	Kitasatospora sp. NBC_01300	
+GCA_035976515.1	Complete genome	undefined	4	SAMN24016502	NBC_01302	Kitasatospora sp. NBC_01302	
+GCA_036347115.1	Complete genome	undefined	1	SAMN30553227	NBC_00781	Kocuria rhizophila	
+GCA_035990065.1	Complete genome	undefined	1	SAMN24016444	NBC_01227	Kocuria rhizophila	
+GCA_036071275.1	Complete genome	undefined	1	SAMN30553050	NBC_00380	Kribbella soli	
+GCA_036097425.1	Complete genome	undefined	1	SAMN30553034	NBC_00359	Kribbella sp. NBC_00359	
+GCA_036067295.1	Complete genome	undefined	1	SAMN30553052	NBC_00382	Kribbella sp. NBC_00382	
+GCA_036013725.1	Complete genome	undefined	1	SAMN30553096	NBC_00482	Kribbella sp. NBC_00482	
+GCA_041430295.1	Complete genome	undefined	1	SAMN30553173	NBC_00662	Kribbella sp. NBC_00662	
+GCA_036226565.1	Complete genome	undefined	1	SAMN30553192	NBC_00709	Kribbella sp. NBC_00709	
+GCA_036226525.1	Complete genome	undefined	1	SAMN24016460	NBC_01245	Kribbella sp. NBC_01245	
+GCA_036227145.1	Complete genome	undefined	1	SAMN24016621	NBC_01484	Kribbella sp. NBC_01484	
+GCA_036346835.1	Complete genome	undefined	1	SAMN24016241	NBC_00516	Lentzea sp. NBC_00516	
+GCA_036186745.1	Complete genome	undefined	1	SAMN30552971	NBC_00253	Microbispora hainanensis	
+GCA_036185645.1	Complete genome	undefined	1	SAMN30552972	NBC_00254	Microbispora hainanensis	
+GCA_036010665.1	Complete genome	undefined	1	SAMN24016417	NBC_01189	Microbispora sp. NBC_01189	
+GCA_036013875.1	Complete genome	undefined	1	SAMN30553089	NBC_00468	Micromonospora aurantiaca	
+GCA_036226285.1	Complete genome	undefined	1	SAMN30552995	NBC_00295	Micromonospora chokoriensis	
+GCA_036184225.1	Complete genome	undefined	1	SAMN30552973	NBC_00256	Micromonospora globbae	
+GCA_026342015.1	Contig	JAPENL000000000	undefined	SAMN30553066	NBC_00409	Micromonospora lupini	
+GCA_035981415.1	Complete genome	undefined	1	SAMN24016494	NBC_01290	Micromonospora maris	
+GCA_026339535.1	Contig	JAPEQP000000000	undefined	SAMN30553464	NBC_01757	Micromonospora peucetia	
+GCA_035917375.1	Complete genome	undefined	1	SAMN30553501	NBC 01809	Micromonospora peucetia	
+GCA_036227385.1	Complete genome	undefined	1	SAMN24016606	NBC_01461	Micromonospora rifamycinica	
+GCA_036136635.1	Complete genome	undefined	1	SAMN24016213	NBC_00330	Micromonospora sp. NBC_00330	
+GCA_026342155.1	Contig	JAPENH000000000	undefined	SAMN30553036	NBC_00362	Micromonospora sp. NBC_00362	
+GCA_036059255.1	Complete genome	undefined	1	SAMN24016214	NBC_00389	Micromonospora sp. NBC_00389	
+GCA_036017915.1	Complete genome	undefined	1	SAMN30553071	NBC_00421	Micromonospora sp. NBC_00421	
+GCA_036347035.1	Complete genome	undefined	2	SAMN30553251	NBC_00821	Micromonospora sp. NBC_00821	
+GCA_026339755.1	Contig	JAPEQF000000000	undefined	SAMN30553387	NBC_01655	Micromonospora sp. NBC_01655	
+GCA_036250065.1	Complete genome	undefined	1	SAMN30553421	NBC_01699	Micromonospora sp. NBC_01699	
+GCA_035920385.1	Complete genome	undefined	1	SAMN30553448	NBC_01739	Micromonospora sp. NBC_01739	
+GCA_035920365.1	Complete genome	undefined	1	SAMN30553449	NBC_01740	Micromonospora sp. NBC_01740	
+GCA_035917455.1	Complete genome	undefined	1	SAMN30553494	NBC_01796	Micromonospora sp. NBC_01796	
+GCA_035917335.1	Complete genome	undefined	1	SAMN30553504	NBC_01813	Micromonospora sp. NBC_01813	
+GCA_035920425.1	Complete genome	undefined	1	SAMN30553444	NBC 01734	Micromonospora ureilytica	
+GCA_036010465.1	Complete genome	undefined	1	SAMN24016425	NBC_01199	Micromonospora ureilytica	
+GCA_036013855.1	Complete genome	undefined	1	SAMN30553090	NBC_00469	Micromonospora zamorensis	
+GCA_036041405.1	Complete genome	undefined	2	SAMN30553065	NBC_00407	Micromonospora zamorensis	
+GCA_036347075.1	Complete genome	undefined	1	SAMN30553243	NBC_00806	Micromonospora zamorensis	
+GCA_036049935.1	Complete genome	undefined	1	SAMN24016216	NBC_00396	Micromonospora zamorensis	
+GCA_036095495.1	Complete genome	undefined	1	SAMN30553035	NBC_00361	Micromonospora zamorensis	
+GCA_036155935.1	Complete genome	undefined	1	SAMN30553007	NBC_00317	Micromonospora zamorensis	
+GCA_041429925.1	Complete genome	undefined	1	SAMN24016493	NBC_01289	Micromonospora zamorensis	
+GCA_036023875.1	Complete genome	undefined	1	SAMN30553070	NBC_00419	Mycobacterium sp. NBC_00419	
+GCA_036086475.1	Complete genome	undefined	1	SAMN30553041	NBC_00369	Nocardia cyriacigeorgica	
+GCA_036051655.1	Complete genome	undefined	1	SAMN30553058	NBC_00392	Nocardia puris	
+GCA_036150455.1	Complete genome	undefined	1	SAMN30553009	NBC_00321	Nocardia salmonicida	
+GCA_036142455.1	Complete genome	undefined	2	SAMN30553012	NBC_00326	Nocardia salmonicida	
+GCA_036046055.1	Complete genome	undefined	1	SAMN30553063	NBC_00403	Nocardia sp. NBC_00403	
+GCA_036032445.1	Complete genome	undefined	1	SAMN30553069	NBC_00416	Nocardia sp. NBC_00416	
+GCA_036346875.1	Complete genome	undefined	1	SAMN30553109	NBC_00508	Nocardia sp. NBC_00508	
+GCA_036345915.1	Complete genome	undefined	1	SAMN30553136	NBC_00565	Nocardia sp. NBC_00565	
+GCA_035958815.1	Complete genome	undefined	2	SAMN24016515	NBC_01327	Nocardia sp. NBC_01327	
+GCA_035956715.1	Complete genome	undefined	1	SAMN24016517	NBC_01329	Nocardia sp. NBC_01329	
+GCA_036327755.1	Complete genome	undefined	2	SAMN30553305	NBC_01503	Nocardia sp. NBC_01503	
+GCA_035920445.1	Complete genome	undefined	1	SAMN30553442	NBC_01730	Nocardia sp. NBC_01730	
+GCA_035920345.1	Complete genome	undefined	1	SAMN30553451	NBC 01743	Nocardia vinacea	
+GCA_036227185.1	Complete genome	undefined	1	SAMN24016619	NBC_01482	Nocardia vinacea	
+GCA_036090055.1	Complete genome	undefined	1	SAMN30553040	NBC_00368	Nocardioides sp. NBC_00368	
+GCA_035917475.1	Complete genome	undefined	1	SAMN30553498	NBC 01801	Nonomuraea fuscirosea	
+GCA_035920485.1	Complete genome	undefined	1	SAMN30553439	NBC 01726	Nonomuraea glycinis	
+GCA_036013525.1	Complete genome	undefined	2	SAMN30553108	NBC_00507	Nonomuraea sp. NBC_00507	
+GCA_035920405.1	Complete genome	undefined	1	SAMN30553447	NBC_01738	Nonomuraea sp. NBC_01738	
+GCA_036163995.1	Complete genome	undefined	3	SAMN30552994	NBC_00294	Rhodococcus sp. NBC_00294	
+GCA_036173065.1	Complete genome	undefined	2	SAMN30552996	NBC_00297	Rhodococcus sp. NBC_00297	
+GCA_036028775.1	Complete genome	undefined	1	SAMN30553073	NBC_00431	Spirillospora sp. NBC_00431	
+GCA_036227065.1	Complete genome	undefined	1	SAMN30553303	NBC_01491	Spirillospora sp. NBC_01491	
+GCA_026339695.1	Contig	JAPEQH000000000	undefined	SAMN30553398	NBC_01670	Streptomyces albidoflavus	
+GCA_026339675.1	Contig	JAPEQJ000000000	undefined	SAMN30553415	NBC_01691	Streptomyces albidoflavus	
+GCA_036238395.1	Complete genome	undefined	1	SAMN24016480	NBC_01271	Streptomyces albidoflavus	
+GCA_036239155.1	Complete genome	undefined	1	SAMN24016479	NBC_01270	Streptomyces albidoflavus	
+GCA_036247045.1	Complete genome	undefined	1	SAMN30553435	NBC 01722	Streptomyces albidoflavus	
+GCA_035955795.1	Complete genome	undefined	2	SAMN24016518	NBC_01331	Streptomyces albidoflavus	
+GCA_041435375.1	Chromosome	undefined	1	SAMN24016482	NBC_01274	Streptomyces albidoflavus	
+GCA_041438665.1	Complete genome	undefined	2	SAMN30553455	NBC 01747	Streptomyces albidoflavus	
+GCA_041438605.1	Complete genome	undefined	2	SAMN30553489	NBC 01790	Streptomyces albidoflavus	
+GCA_041438585.1	Complete genome	undefined	3	SAMN30553490	NBC 01791	Streptomyces albidoflavus	
+GCA_041438845.1	Complete genome	undefined	2	SAMN30553356	NBC_01616	Streptomyces albidoflavus	
+GCA_041438825.1	Complete genome	undefined	2	SAMN30553416	NBC 01692	Streptomyces albidoflavus	
+GCA_026340025.1	Contig	JAPEPQ000000000	undefined	SAMN24016604	NBC_01458	Streptomyces albogriseolus	
+GCA_026339895.1	Contig	JAPEPV000000000	undefined	SAMN30553312	NBC_01548	Streptomyces albogriseolus	
+GCA_036226965.1	Complete genome	undefined	2	SAMN30553412	NBC 01686	Streptomyces althioticus	
+GCA_036226945.1	Complete genome	undefined	2	SAMN30553413	NBC 01687	Streptomyces anthocyanicus	
+GCA_035917655.1	Complete genome	undefined	2	SAMN30553482	NBC 01777	Streptomyces anthocyanicus	
+GCA_026340665.1	Contig	JAPEOY000000000	undefined	SAMN24016481	NBC_01273	Streptomyces antibioticus	
+GCA_026342305.1	Contig	JAPENA000000000	undefined	SAMN24016207	NBC_00282	Streptomyces antibioticus	
+GCA_026339775.1	Contig	JAPEQE000000000	undefined	SAMN30553379	NBC_01645	Streptomyces anulatus	
+GCA_026339815.1	Contig	JAPEQD000000000	undefined	SAMN30553370	NBC_01634	Streptomyces anulatus	
+GCA_026340055.1	Contig	JAPEPR000000000	undefined	SAMN24016609	NBC_01464	Streptomyces anulatus	
+GCA_026339795.1	Contig	JAPEQC000000000	undefined	SAMN30553363	NBC_01623	Streptomyces anulatus	
+GCA_035917915.1	Complete genome	undefined	2	SAMN30553466	NBC 01759	Streptomyces anulatus	
+GCA_035954115.1	Complete genome	undefined	2	SAMN24016520	NBC_01333	Streptomyces anulatus	
+GCA_036010525.1	Complete genome	undefined	2	SAMN24016422	NBC_01196	Streptomyces anulatus	
+GCA_036227645.1	Complete genome	undefined	1	SAMN24016592	NBC_01436	Streptomyces anulatus	
+GCA_036227625.1	Complete genome	undefined	1	SAMN24016593	NBC_01437	Streptomyces anulatus	
+GCA_036232045.1	Complete genome	undefined	2	SAMN24016582	NBC_01421	Streptomyces anulatus	
+GCA_036346915.1	Complete genome	undefined	1	SAMN24016238	NBC_00502	Streptomyces anulatus	
+GCA_036346555.1	Complete genome	undefined	2	SAMN30553124	NBC_00535	Streptomyces anulatus	
+GCA_036206925.1	Complete genome	undefined	1	SAMN30552940	NBC_00171	Streptomyces anulatus	
+GCA_026342895.1	Contig	JAPEMH000000000	undefined	SAMN24016168	NBC_00141	Streptomyces atratus	
+GCA_026343715.1	Contig	JAPELN000000000	undefined	SAMN24016143	NBC_00018	Streptomyces bobili	
+GCA_036172715.1	Complete genome	undefined	1	SAMN30552998	NBC_00302	Streptomyces bobili	
+GCA_036250715.1	Complete genome	undefined	1	SAMN24016626	NBC_01496	Streptomyces brevispora	
+GCA_035917795.1	Complete genome	undefined	1	SAMN30553475	NBC 01769	Streptomyces brevispora	
+GCA_036226425.1	Complete genome	undefined	1	SAMN24016466	NBC_01256	Streptomyces caniferus	
+GCA_036178885.1	Complete genome	undefined	2	SAMN24016205	NBC_00270	Streptomyces caniferus	
+GCA_036167175.1	Complete genome	undefined	1	SAMN30553004	NBC_00314	Streptomyces caniferus	
+GCA_036124195.1	Complete genome	undefined	1	SAMN30553016	NBC_00337	Streptomyces caniferus	
+GCA_026342455.1	Contig	JAPEMR000000000	undefined	SAMN30552964	NBC_00231	Streptomyces canus	
+GCA_026341135.1	Contig	JAPEOP000000000	undefined	SAMN24016329	NBC_00994	Streptomyces canus	
+GCA_036110805.1	Complete genome	undefined	3	SAMN30553027	NBC_00350	Streptomyces canus	
+GCA_036177905.1	Complete genome	undefined	2	SAMN30552984	NBC_00277	Streptomyces canus	
+GCA_036197725.1	Complete genome	undefined	1	SAMN30552962	NBC_00225	Streptomyces canus	
+GCA_036226545.1	Complete genome	undefined	1	SAMN30553193	NBC_00710	Streptomyces canus	
+GCA_036226725.1	Complete genome	undefined	1	SAMN30553184	NBC_00685	Streptomyces canus	
+GCA_036227285.1	Complete genome	undefined	2	SAMN24016615	NBC_01475	Streptomyces canus	
+GCA_036237135.1	Complete genome	undefined	1	SAMN24016540	NBC_01360	Streptomyces canus	
+GCA_035918175.1	Complete genome	undefined	2	SAMN30553334	NBC_01585	Streptomyces canus	
+GCA_041435015.1	Complete genome	undefined	5	SAMN30553026	NBC 00349	Streptomyces canus	
+GCA_035977975.1	Complete genome	undefined	1	SAMN24016500	NBC_01299	Streptomyces celluloflavus	
+GCA_026339705.1	Contig	JAPEQI000000000	undefined	SAMN30553408	NBC_01681	Streptomyces cellulosae	
+GCA_035917735.1	Complete genome	undefined	1	SAMN30553478	NBC 01772	Streptomyces cellulosae	
+GCA_035917715.1	Complete genome	undefined	1	SAMN30553479	NBC 01773	Streptomyces cellulosae	
+GCA_035917635.1	Complete genome	undefined	2	SAMN30553484	NBC 01779	Streptomyces cellulosae	
+GCA_035917615.1	Complete genome	undefined	1	SAMN30553485	NBC 01780	Streptomyces cellulosae	
+GCA_036227045.1	Complete genome	undefined	3	SAMN30553407	NBC 01680	Streptomyces cellulosae	
+GCA_036249465.1	Complete genome	undefined	3	SAMN30553423	NBC 01703	Streptomyces cellulosae	
+GCA_036249245.1	Complete genome	undefined	1	SAMN30553424	NBC 01706	Streptomyces cellulosae	
+GCA_036249765.1	Complete genome	undefined	2	SAMN30553422	NBC 01701	Streptomyces cellulosae	
+GCA_036248335.1	Complete genome	undefined	4	SAMN30553427	NBC 01711	Streptomyces cellulosae	
+GCA_036346015.1	Complete genome	undefined	1	SAMN24016249	NBC_00556	Streptomyces cellulosae	
+GCA_041438645.1	Complete genome	undefined	5	SAMN30553483	NBC 01778	Streptomyces cellulosae	
+GCA_036345055.1	Complete genome	undefined	2	SAMN30553147	NBC_00590	Streptomyces chartreusis	
+GCA_036010565.1	Complete genome	undefined	1	SAMN24016189	NBC_00215	Streptomyces chartreusis	
+GCA_036345975.1	Complete genome	undefined	3	SAMN30553134	NBC_00558	Streptomyces clavifer	
+GCA_041431075.1	Complete genome	undefined	2	SAMN24016256	NBC 00607	Streptomyces clavifer	
+GCA_026341945.1	Contig	JAPENQ000000000	undefined	SAMN30553087	NBC_00465	Streptomyces coelicoflavus	
+GCA_036101175.1	Complete genome	undefined	4	SAMN30553032	NBC_00357	Streptomyces coelicoflavus	
+GCA_035950875.1	Complete genome	undefined	1	SAMN24016525	NBC_01338	Streptomyces cyaneofuscatus	
+GCA_035917555.1	Complete genome	undefined	2	SAMN30553491	NBC 01792	Streptomyces cyaneofuscatus	
+GCA_035918115.1	Complete genome	undefined	2	SAMN30553456	NBC 01749	Streptomyces cyaneofuscatus	
+GCA_035917695.1	Complete genome	undefined	1	SAMN30553480	NBC 01774	Streptomyces decoyicus	
+GCA_036013815.1	Complete genome	undefined	2	SAMN24016231	NBC_00472	Streptomyces decoyicus	
+GCA_036237195.1	Complete genome	undefined	2	SAMN24016539	NBC_01359	Streptomyces decoyicus	
+GCA_026343645.1	Contig	JAPELO000000000	undefined	SAMN30552875	NBC_00026	Streptomyces erythrochromogenes	
+GCA_036170895.1	Complete genome	undefined	2	SAMN30552999	NBC_00303	Streptomyces erythrochromogenes	
+GCA_036181125.1	Complete genome	undefined	1	SAMN30552975	NBC_00261	Streptomyces europaeiscabiei	
+GCA_036093575.1	Complete genome	undefined	2	SAMN30553037	NBC_00363	Streptomyces europaeiscabiei	
+GCA_036346855.1	Complete genome	undefined	3	SAMN30553113	NBC_00515	Streptomyces europaeiscabiei	
+GCA_036013765.1	Complete genome	undefined	1	SAMN30553094	NBC_00480	Streptomyces europaeiscabiei	
+GCA_036013605.1	Complete genome	undefined	1	SAMN30553102	NBC_00494	Streptomyces europaeiscabiei	
+GCA_036013565.1	Complete genome	undefined	2	SAMN24016237	NBC_00497	Streptomyces europaeiscabiei	
+GCA_035962435.1	Complete genome	undefined	2	SAMN30553445	NBC 01735	Streptomyces europaeiscabiei	
+GCA_036226325.1	Complete genome	undefined	1	SAMN24016197	NBC_00238	Streptomyces gancidicus	
+GCA_036010305.1	Complete genome	undefined	3	SAMN24016433	NBC_01211	Streptomyces globisporus	
+GCA_035919765.1	Complete genome	undefined	2	SAMN30553453	NBC 01745	Streptomyces globisporus	
+GCA_036010625.1	Complete genome	undefined	3	SAMN24016419	NBC_01191	Streptomyces goshikiensis	
+GCA_036175285.1	Complete genome	undefined	2	SAMN30552987	NBC_00283	Streptomyces goshikiensis	
+GCA_041439005.1	Complete genome	undefined	2	SAMN24016545	NBC_01366	Streptomyces griseoaurantiacus	
+GCA_036345135.1	Complete genome	undefined	4	SAMN30553143	NBC_00586	Streptomyces griseorubiginosus	
+GCA_036345115.1	Complete genome	undefined	2	SAMN30553144	NBC_00587	Streptomyces griseorubiginosus	
+GCA_026340455.1	Contig	JAPEPE000000000	undefined	SAMN24016530	NBC_01345	Streptomyces griseus	
+GCA_035918035.1	Complete genome	undefined	1	SAMN30553460	NBC 01753	Streptomyces hirsutus	
+GCA_036226185.1	Complete genome	undefined	1	SAMN30553093	NBC_00478	Streptomyces jietaisiensis	
+GCA_036224405.1	Complete genome	undefined	1	SAMN30553100	NBC_00489	Streptomyces jietaisiensis	
+GCA_036347095.1	Complete genome	undefined	1	SAMN30553242	NBC_00805	Streptomyces jietaisiensis	
+GCA_036189065.1	Complete genome	undefined	1	SAMN30553116	NBC_00522	Streptomyces jietaisiensis	
+GCA_036189845.1	Complete genome	undefined	3	SAMN30553115	NBC_00521	Streptomyces jietaisiensis	
+GCA_036190545.1	Complete genome	undefined	1	SAMN30553107	NBC_00504	Streptomyces jietaisiensis	
+GCA_026341895.1	Contig	JAPENU000000000	undefined	SAMN24016244	NBC_00534	Streptomyces longwoodensis	
+GCA_036347155.1	Complete genome	undefined	3	SAMN24016280	NBC_00735	Streptomyces longwoodensis	
+GCA_036346085.1	Complete genome	undefined	1	SAMN30553127	NBC_00541	Streptomyces longwoodensis	
+GCA_035917115.1	Complete genome	undefined	1	SAMN24016246	NBC_00540	Streptomyces longwoodensis	
+GCA_041431155.1	Complete genome	undefined	6	SAMN24016245	NBC 00538	Streptomyces longwoodensis	
+GCA_036347215.1	Complete genome	undefined	1	SAMN30553194	NBC_00712	Streptomyces luteogriseus	
+GCA_036243495.1	Complete genome	undefined	1	SAMN24016273	NBC_00711	Streptomyces luteogriseus	
+GCA_036207985.1	Complete genome	undefined	1	SAMN30553197	NBC_00722	Streptomyces lydicus	
+GCA_036226805.1	Complete genome	undefined	3	SAMN24016268	NBC_00668	Streptomyces melanogenes	
+GCA_026340135.1	Contig	JAPEPL000000000	undefined	SAMN24016585	NBC_01424	Streptomyces microflavus	
+GCA_036227025.1	Complete genome	undefined	1	SAMN30553409	NBC 01683	Streptomyces microflavus	
+GCA_036227005.1	Complete genome	undefined	1	SAMN30553410	NBC 01684	Streptomyces microflavus	
+GCA_036237355.1	Complete genome	undefined	1	SAMN24016531	NBC_01346	Streptomyces microflavus	
+GCA_035917435.1	Complete genome	undefined	1	SAMN30553495	NBC 01798	Streptomyces microflavus	
+GCA_036010585.1	Complete genome	undefined	2	SAMN24016420	NBC_01194	Streptomyces microflavus	
+GCA_026340005.1	Contig	JAPEPS000000000	undefined	SAMN24016613	NBC_01472	Streptomyces mirabilis	
+GCA_026339635.1	Contig	JAPEQK000000000	undefined	SAMN30553420	NBC_01697	Streptomyces mirabilis	
+GCA_026339575.1	Contig	JAPEQO000000000	undefined	SAMN30553450	NBC_01741	Streptomyces mirabilis	
+GCA_026342745.1	Contig	JAPEMK000000000	undefined	SAMN30552941	NBC_00174	Streptomyces mirabilis	
+GCA_036248315.1	Complete genome	undefined	1	SAMN30553428	NBC 01714	Streptomyces mirabilis	
+GCA_036202585.1	Complete genome	undefined	1	SAMN24016186	NBC_00200	Streptomyces mirabilis	
+GCA_036069355.1	Complete genome	undefined	1	SAMN30553051	NBC_00381	Streptomyces mirabilis	
+GCA_036073155.1	Complete genome	undefined	1	SAMN30553049	NBC_00379	Streptomyces mirabilis	
+GCA_041435415.1	Chromosome	undefined	3	SAMN24016463	NBC_01248	Streptomyces mirabilis	
+GCA_036346815.1	Complete genome	undefined	1	SAMN24016242	NBC_00520	Streptomyces murinus	
+GCA_035954955.1	Complete genome	undefined	1	SAMN24016519	NBC_01332	Streptomyces murinus	
+GCA_036229765.1	Complete genome	undefined	1	SAMN24016589	NBC_01432	Streptomyces niveus	
+GCA_036227585.1	Complete genome	undefined	2	SAMN24016599	NBC_01447	Streptomyces niveus	
+GCA_036013835.1	Complete genome	undefined	2	SAMN24016230	NBC_00471	Streptomyces nojiriensis	
+GCA_026339805.1	Contig	JAPEQA000000000	undefined	SAMN30553344	NBC_01600	Streptomyces phaeochromogenes	
+GCA_026343615.1	Contig	JAPELP000000000	undefined	SAMN30552877	NBC_00034	Streptomyces phaeochromogenes	
+GCA_035957715.1	Complete genome	undefined	1	SAMN24016516	NBC_01328	Streptomyces phaeochromogenes	
+GCA_035917195.1	Complete genome	undefined	1	SAMN30552944	NBC_00186	Streptomyces phaeochromogenes	
+GCA_035918055.1	Complete genome	undefined	1	SAMN30553459	NBC 01752	Streptomyces phaeochromogenes	
+GCA_036226345.1	Complete genome	undefined	1	SAMN30552958	NBC_00221	Streptomyces phaeochromogenes	
+GCA_036204825.1	Complete genome	undefined	1	SAMN30552945	NBC_00187	Streptomyces phaeochromogenes	
+GCA_036133475.1	Complete genome	undefined	1	SAMN30553013	NBC_00333	Streptomyces phaeochromogenes	
+GCA_026340175.1	Contig	JAPEPP000000000	undefined	SAMN30553300	NBC_01457	Streptomyces platensis	
+GCA_036079075.1	Complete genome	undefined	1	SAMN30553045	NBC_00375	Streptomyces platensis	
+GCA_036345215.1	Complete genome	undefined	1	SAMN24016252	NBC_00573	Streptomyces platensis	
+GCA_036347175.1	Complete genome	undefined	2	SAMN24016279	NBC_00734	Streptomyces platensis	
+GCA_035951655.1	Complete genome	undefined	1	SAMN24016524	NBC_01337	Streptomyces platensis	
+GCA_026342395.1	Contig	JAPEMW000000000	undefined	SAMN30552976	NBC_00263	Streptomyces prunicolor	
+GCA_036345035.1	Complete genome	undefined	2	SAMN30553150	NBC_00598	Streptomyces pseudovenezuelae	
+GCA_036226905.1	Complete genome	undefined	1	SAMN30553172	NBC 00661	Streptomyces pseudovenezuelae	
+GCA_036226845.1	Complete genome	undefined	1	SAMN30553176	NBC_00666	Streptomyces pseudovenezuelae	
+GCA_036226705.1	Complete genome	undefined	1	SAMN30553185	NBC_00686	Streptomyces pseudovenezuelae	
+GCA_036243435.1	Complete genome	undefined	1	SAMN30553195	NBC_00713	Streptomyces pseudovenezuelae	
+GCA_035917775.1	Complete genome	undefined	2	SAMN30553476	NBC 01770	Streptomyces scopuliridis	
+GCA_035917755.1	Complete genome	undefined	3	SAMN30553477	NBC 01771	Streptomyces scopuliridis	
+GCA_035917595.1	Complete genome	undefined	3	SAMN30553486	NBC 01786	Streptomyces scopuliridis	
+GCA_026343795.1	Contig	JAPELM000000000	undefined	SAMN30552867	NBC_00006	Streptomyces sp. NBC_00006	
+GCA_026343635.1	Contig	JAPELQ000000000	undefined	SAMN24016149	NBC_00038	Streptomyces sp. NBC_00038	
+GCA_026343545.1	Contig	JAPELR000000000	undefined	SAMN30552882	NBC_00047	Streptomyces sp. NBC_00047	
+GCA_026343535.1	Contig	JAPELS000000000	undefined	SAMN30552884	NBC_00051	Streptomyces sp. NBC_00051	
+GCA_026343435.1	Contig	JAPELT000000000	undefined	SAMN30552885	NBC_00052	Streptomyces sp. NBC_00052	
+GCA_036010645.1	Complete genome	undefined	3	SAMN30552886	NBC_00053	Streptomyces sp. NBC_00053	
+GCA_026343385.1	Contig	JAPELU000000000	undefined	SAMN30552890	NBC_00059	Streptomyces sp. NBC_00059	
+GCA_026343375.1	Contig	JAPELV000000000	undefined	SAMN30552893	NBC_00062	Streptomyces sp. NBC_00062	
+GCA_026343345.1	Contig	JAPELW000000000	undefined	SAMN30552894	NBC_00063	Streptomyces sp. NBC_00063	
+GCA_026343335.1	Contig	JAPELX000000000	undefined	SAMN30552900	NBC_00078	Streptomyces sp. NBC_00078	
+GCA_026343295.1	Contig	JAPELY000000000	undefined	SAMN30552905	NBC_00083	Streptomyces sp. NBC_00083	
+GCA_026343255.1	Contig	JAPELZ000000000	undefined	SAMN24016158	NBC_00086	Streptomyces sp. NBC_00086	
+GCA_026343185.1	Contig	JAPEMA000000000	undefined	SAMN30552908	NBC_00091	Streptomyces sp. NBC_00091	
+GCA_026343125.1	Contig	JAPEMB000000000	undefined	SAMN24016160	NBC_00094	Streptomyces sp. NBC_00094	
+GCA_026343115.1	Contig	JAPEMC000000000	undefined	SAMN30552913	NBC_00102	Streptomyces sp. NBC_00102	
+GCA_026343035.1	Contig	JAPEMD000000000	undefined	SAMN30552914	NBC_00103	Streptomyces sp. NBC_00103	
+GCA_026343055.1	Contig	JAPEME000000000	undefined	SAMN30552924	NBC_00120	Streptomyces sp. NBC_00120	
+GCA_026342945.1	Contig	JAPEMF000000000	undefined	SAMN30552927	NBC_00124	Streptomyces sp. NBC_00124	
+GCA_026342975.1	Contig	JAPEMG000000000	undefined	SAMN30552931	NBC_00140	Streptomyces sp. NBC_00140	
+GCA_036010605.1	Complete genome	undefined	1	SAMN30552933	NBC_00145	Streptomyces sp. NBC_00145	
+GCA_035917215.1	Complete genome	undefined	1	SAMN30552936	NBC_00151	Streptomyces sp. NBC_00151	
+GCA_026342835.1	Contig	JAPEMI000000000	undefined	SAMN30552937	NBC_00154	Streptomyces sp. NBC_00154	
+GCA_026342795.1	Contig	JAPEMJ000000000	undefined	SAMN24016172	NBC_00160	Streptomyces sp. NBC_00160	
+GCA_036206005.1	Complete genome	undefined	2	SAMN30552942	NBC_00178	Streptomyces sp. NBC_00178	
+GCA_026342695.1	Contig	JAPEML000000000	undefined	SAMN24016181	NBC_00183	Streptomyces sp. NBC_00183	
+GCA_036205185.1	Complete genome	undefined	3	SAMN30552943	NBC_00184	Streptomyces sp. NBC_00184	
+GCA_036203305.1	Complete genome	undefined	2	SAMN24016184	NBC_00190	Streptomyces sp. NBC_00190	
+GCA_026342735.1	Contig	JAPEMM000000000	undefined	SAMN30552947	NBC_00193	Streptomyces sp. NBC_00193	
+GCA_026342575.1	Contig	JAPEMN000000000	undefined	SAMN30552949	NBC_00198	Streptomyces sp. NBC_00198	
+GCA_026342605.1	Contig	JAPEMO000000000	undefined	SAMN30552950	NBC_00199	Streptomyces sp. NBC_00199	
+GCA_026342595.1	Contig	JAPEMP000000000	undefined	SAMN30552951	NBC_00201	Streptomyces sp. NBC_00201	
+GCA_036201705.1	Complete genome	undefined	1	SAMN30552954	NBC_00208	Streptomyces sp. NBC_00208	
+GCA_036199905.1	Complete genome	undefined	1	SAMN30552960	NBC_00223	Streptomyces sp. NBC_00223	
+GCA_041435195.1	Complete genome	undefined	3	SAMN30552961	NBC_00224	Streptomyces sp. NBC_00224	
+GCA_036196325.1	Complete genome	undefined	1	SAMN24016194	NBC_00228	Streptomyces sp. NBC_00228	
+GCA_026342495.1	Contig	JAPEMS000000000	undefined	SAMN30552965	NBC_00233	Streptomyces sp. NBC_00233	
+GCA_036195325.1	Complete genome	undefined	1	SAMN24016195	NBC_00234	Streptomyces sp. NBC_00234	
+GCA_036195045.1	Complete genome	undefined	1	SAMN24016196	NBC_00236	Streptomyces sp. NBC_00236	
+GCA_026342435.1	Contig	JAPEMT000000000	undefined	SAMN30552966	NBC_00237	Streptomyces sp. NBC_00237	
+GCA_036194065.1	Complete genome	undefined	5	SAMN24016198	NBC_00239	Streptomyces sp. NBC_00239	
+GCA_035917175.1	Complete genome	undefined	1	SAMN30552967	NBC_00243	Streptomyces sp. NBC_00243	
+GCA_036188265.1	Complete genome	undefined	1	SAMN30552968	NBC_00247	Streptomyces sp. NBC_00247	
+GCA_026342355.1	Contig	JAPEMV000000000	undefined	SAMN30552969	NBC_00249	Streptomyces sp. NBC_00249	
+GCA_036192275.1	Complete genome	undefined	2	SAMN24016201	NBC_00250	Streptomyces sp. NBC_00250	
+GCA_036187565.1	Complete genome	undefined	1	SAMN30552970	NBC_00252	Streptomyces sp. NBC_00252	
+GCA_036183285.1	Complete genome	undefined	2	SAMN30552974	NBC_00257	Streptomyces sp. NBC_00257	
+GCA_036182465.1	Complete genome	undefined	1	SAMN24016202	NBC_00258	Streptomyces sp. NBC_00258	
+GCA_036181745.1	Complete genome	undefined	1	SAMN24016203	NBC_00259	Streptomyces sp. NBC_00259	
+GCA_026342365.1	Contig	JAPEMX000000000	undefined	SAMN30552977	NBC_00264	Streptomyces sp. NBC_00264	
+GCA_036180305.1	Complete genome	undefined	3	SAMN30552978	NBC_00267	Streptomyces sp. NBC_00267	
+GCA_026342335.1	Contig	JAPEMY000000000	undefined	SAMN30552979	NBC_00268	Streptomyces sp. NBC_00268	
+GCA_036178905.1	Complete genome	undefined	1	SAMN30552980	NBC_00269	Streptomyces sp. NBC_00269	
+GCA_036178845.1	Complete genome	undefined	3	SAMN30552981	NBC_00271	Streptomyces sp. NBC_00271	
+GCA_036178565.1	Complete genome	undefined	2	SAMN30552982	NBC_00272	Streptomyces sp. NBC_00272	
+GCA_036178145.1	Complete genome	undefined	1	SAMN24016206	NBC_00273	Streptomyces sp. NBC_00273	
+GCA_041435135.1	Complete genome	undefined	3	SAMN30552986	NBC_00280	Streptomyces sp. NBC_00280	
+GCA_036174265.1	Complete genome	undefined	2	SAMN30552988	NBC_00285	Streptomyces sp. NBC_00285	
+GCA_036173125.1	Complete genome	undefined	1	SAMN30552989	NBC_00286	Streptomyces sp. NBC_00286	
+GCA_036173105.1	Complete genome	undefined	1	SAMN30552990	NBC_00287	Streptomyces sp. NBC_00287	
+GCA_041435115.1	Complete genome	undefined	6	SAMN30552991	NBC_00289	Streptomyces sp. NBC_00289	
+GCA_026342255.1	Contig	JAPENB000000000	undefined	SAMN30552992	NBC_00291	Streptomyces sp. NBC_00291	
+GCA_036173045.1	Complete genome	undefined	2	SAMN30552997	NBC_00299	Streptomyces sp. NBC_00299	
+GCA_036169715.1	Complete genome	undefined	3	SAMN30553000	NBC_00304	Streptomyces sp. NBC_00304	
+GCA_026342275.1	Contig	JAPENC000000000	undefined	SAMN30553001	NBC_00305	Streptomyces sp. NBC_00305	
+GCA_036169555.1	Complete genome	undefined	1	SAMN30553002	NBC_00306	Streptomyces sp. NBC_00306	
+GCA_036208085.1	Complete genome	undefined	1	SAMN24016209	NBC_00310	Streptomyces sp. NBC_00310	
+GCA_036168855.1	Complete genome	undefined	1	SAMN30553003	NBC_00311	Streptomyces sp. NBC_00311	
+GCA_036158715.1	Complete genome	undefined	2	SAMN30553006	NBC_00316	Streptomyces sp. NBC_00316	
+GCA_026342235.1	Contig	JAPEND000000000	undefined	SAMN30553008	NBC_00320	Streptomyces sp. NBC_00320	
+GCA_036147535.1	Complete genome	undefined	1	SAMN30553010	NBC_00322	Streptomyces sp. NBC_00322	
+GCA_036139655.1	Complete genome	undefined	1	SAMN24016212	NBC_00328	Streptomyces sp. NBC_00328	
+GCA_036130235.1	Complete genome	undefined	3	SAMN30553014	NBC_00334	Streptomyces sp. NBC_00334	
+GCA_036127095.1	Complete genome	undefined	2	SAMN30553015	NBC_00335	Streptomyces sp. NBC_00335	
+GCA_026342195.1	Contig	JAPENE000000000	undefined	SAMN30553017	NBC_00338	Streptomyces sp. NBC_00338	
+GCA_026342205.1	Contig	JAPENF000000000	undefined	SAMN30553018	NBC_00340	Streptomyces sp. NBC_00340	
+GCA_041435055.1	Complete genome	undefined	3	SAMN30553019	NBC_00341	Streptomyces sp. NBC_00341	
+GCA_036121075.1	Complete genome	undefined	3	SAMN30553020	NBC_00342	Streptomyces sp. NBC_00342	
+GCA_036118775.1	Complete genome	undefined	1	SAMN30553021	NBC_00343	Streptomyces sp. NBC_00343	
+GCA_036088315.1	Complete genome	undefined	2	SAMN30553022	NBC_00344	Streptomyces sp. NBC_00344	
+GCA_026342175.1	Contig	JAPENG000000000	undefined	SAMN30553024	NBC_00347	Streptomyces sp. NBC_00347	
+GCA_036108815.1	Complete genome	undefined	1	SAMN30553028	NBC_00353	Streptomyces sp. NBC_00353	
+GCA_036106915.1	Complete genome	undefined	2	SAMN30553029	NBC_00354	Streptomyces sp. NBC_00354	
+GCA_036103115.1	Complete genome	undefined	1	SAMN30553031	NBC_00356	Streptomyces sp. NBC_00356	
+GCA_036099295.1	Complete genome	undefined	1	SAMN30553033	NBC_00358	Streptomyces sp. NBC_00358	
+GCA_026342135.1	Contig	JAPENI000000000	undefined	SAMN30553038	NBC_00365	Streptomyces sp. NBC_00365	
+GCA_036091755.1	Complete genome	undefined	1	SAMN30553039	NBC_00366	Streptomyces sp. NBC_00366	
+GCA_036084755.1	Complete genome	undefined	1	SAMN30553042	NBC_00370	Streptomyces sp. NBC_00370	
+GCA_036082875.1	Complete genome	undefined	1	SAMN30553043	NBC_00371	Streptomyces sp. NBC_00371	
+GCA_036077095.1	Complete genome	undefined	3	SAMN30553046	NBC_00376	Streptomyces sp. NBC_00376	
+GCA_036075115.1	Complete genome	undefined	2	SAMN30553047	NBC_00377	Streptomyces sp. NBC_00377	
+GCA_026342115.1	Contig	JAPENJ000000000	undefined	SAMN30553048	NBC_00378	Streptomyces sp. NBC_00378	
+GCA_035917155.1	Complete genome	undefined	1	SAMN30553054	NBC_00385	Streptomyces sp. NBC_00385	
+GCA_036063235.1	Complete genome	undefined	1	SAMN30553055	NBC_00386	Streptomyces sp. NBC_00386	
+GCA_036061255.1	Complete genome	undefined	2	SAMN30553056	NBC_00388	Streptomyces sp. NBC_00388	
+GCA_036057275.1	Complete genome	undefined	2	SAMN30553057	NBC_00390	Streptomyces sp. NBC_00390	
+GCA_036055215.1	Complete genome	undefined	1	SAMN24016215	NBC_00391	Streptomyces sp. NBC_00391	
+GCA_036048035.1	Complete genome	undefined	1	SAMN30553061	NBC_00400	Streptomyces sp. NBC_00400	
+GCA_026342075.1	Contig	JAPENK000000000	undefined	SAMN30553062	NBC_00401	Streptomyces sp. NBC_00401	
+GCA_036038375.1	Complete genome	undefined	1	SAMN30553068	NBC_00414	Streptomyces sp. NBC_00414	
+GCA_026342085.1	Contig	JAPENN000000000	undefined	SAMN24016219	NBC_00424	Streptomyces sp. NBC_00424	
+GCA_036030735.1	Complete genome	undefined	1	SAMN30553072	NBC_00425	Streptomyces sp. NBC_00425	
+GCA_036015235.1	Complete genome	undefined	1	SAMN30553074	NBC_00433	Streptomyces sp. NBC_00433	
+GCA_036014235.1	Complete genome	undefined	2	SAMN24016220	NBC_00435	Streptomyces sp. NBC_00435	
+GCA_026342055.1	Contig	JAPENO000000000	undefined	SAMN24016222	NBC_00439	Streptomyces sp. NBC_00439	
+GCA_036014215.1	Complete genome	undefined	2	SAMN30553075	NBC_00440	Streptomyces sp. NBC_00440	
+GCA_036191345.1	Complete genome	undefined	2	SAMN30553076	NBC_00441	Streptomyces sp. NBC_00441	
+GCA_036014195.1	Complete genome	undefined	1	SAMN24016223	NBC_00442	Streptomyces sp. NBC_00442	
+GCA_036014175.1	Complete genome	undefined	1	SAMN30553077	NBC_00443	Streptomyces sp. NBC_00443	
+GCA_036014155.1	Complete genome	undefined	1	SAMN30553078	NBC_00444	Streptomyces sp. NBC_00444	
+GCA_036014135.1	Complete genome	undefined	2	SAMN30553079	NBC_00445	Streptomyces sp. NBC_00445	
+GCA_036014115.1	Complete genome	undefined	1	SAMN24016224	NBC_00448	Streptomyces sp. NBC_00448	
+GCA_026341995.1	Contig	JAPENP000000000	undefined	SAMN30553080	NBC_00452	Streptomyces sp. NBC_00452	
+GCA_036014095.1	Complete genome	undefined	1	SAMN24016226	NBC_00453	Streptomyces sp. NBC_00453	
+GCA_041434015.1	Complete genome	undefined	3	SAMN30553081	NBC_00454	Streptomyces sp. NBC_00454	
+GCA_036014035.1	Complete genome	undefined	2	SAMN24016227	NBC_00455	Streptomyces sp. NBC_00455	
+GCA_036014015.1	Complete genome	undefined	1	SAMN30553083	NBC_00457	Streptomyces sp. NBC_00457	
+GCA_036013955.1	Complete genome	undefined	1	SAMN30553084	NBC_00459	Streptomyces sp. NBC_00459	
+GCA_036013935.1	Complete genome	undefined	1	SAMN30553085	NBC_00461	Streptomyces sp. NBC_00461	
+GCA_036013915.1	Complete genome	undefined	3	SAMN30553086	NBC_00464	Streptomyces sp. NBC_00464	
+GCA_041433995.1	Complete genome	undefined	3	SAMN24016229	NBC 00466	Streptomyces sp. NBC_00466	
+GCA_036013895.1	Complete genome	undefined	2	SAMN30553088	NBC_00467	Streptomyces sp. NBC_00467	
+GCA_041433975.1	Complete genome	undefined	3	SAMN30553091	NBC_00470	Streptomyces sp. NBC_00470	
+GCA_026341955.1	Contig	JAPENR000000000	undefined	SAMN30553092	NBC_00474	Streptomyces sp. NBC_00474	
+GCA_035917135.1	Complete genome	undefined	1	SAMN30553095	NBC_00481	Streptomyces sp. NBC_00481	
+GCA_036013745.1	Complete genome	undefined	1	SAMN30553097	NBC_00483	Streptomyces sp. NBC_00483	
+GCA_036013705.1	Complete genome	undefined	1	SAMN30553098	NBC_00484	Streptomyces sp. NBC_00484	
+GCA_036013685.1	Complete genome	undefined	1	SAMN30553099	NBC_00485	Streptomyces sp. NBC_00485	
+GCA_036013665.1	Complete genome	undefined	1	SAMN24016233	NBC_00487	Streptomyces sp. NBC_00487	
+GCA_036013645.1	Complete genome	undefined	2	SAMN24016235	NBC_00490	Streptomyces sp. NBC_00490	
+GCA_036013625.1	Complete genome	undefined	2	SAMN30553101	NBC_00493	Streptomyces sp. NBC_00493	
+GCA_036013585.1	Complete genome	undefined	1	SAMN24016236	NBC_00496	Streptomyces sp. NBC_00496	
+GCA_036013545.1	Complete genome	undefined	1	SAMN30553103	NBC_00498	Streptomyces sp. NBC_00498	
+GCA_036346895.1	Complete genome	undefined	2	SAMN24016239	NBC_00503	Streptomyces sp. NBC_00503	
+GCA_036013505.1	Complete genome	undefined	1	SAMN30553110	NBC_00510	Streptomyces sp. NBC_00510	
+GCA_041431415.1	Complete genome	undefined	4	SAMN30553111	NBC_00513	Streptomyces sp. NBC_00513	
+GCA_036346615.1	Complete genome	undefined	2	SAMN30553117	NBC_00523	Streptomyces sp. NBC_00523	
+GCA_036346595.1	Complete genome	undefined	2	SAMN24016243	NBC_00525	Streptomyces sp. NBC_00525	
+GCA_036346295.1	Complete genome	undefined	4	SAMN30553125	NBC_00536	Streptomyces sp. NBC_00536	
+GCA_036346105.1	Complete genome	undefined	2	SAMN30553126	NBC_00539	Streptomyces sp. NBC_00539	
+GCA_041431135.1	Complete genome	undefined	2	SAMN24016247	NBC 00554	Streptomyces sp. NBC_00554	
+GCA_026341875.1	Contig	JAPENV000000000	undefined	SAMN24016248	NBC_00555	Streptomyces sp. NBC_00555	
+GCA_036345995.1	Complete genome	undefined	2	SAMN30553133	NBC_00557	Streptomyces sp. NBC_00557	
+GCA_036345955.1	Complete genome	undefined	2	SAMN30553135	NBC_00562	Streptomyces sp. NBC_00562	
+GCA_041431115.1	Chromosome	undefined	2	SAMN24016250	NBC 00564	Streptomyces sp. NBC_00564	
+GCA_036345235.1	Complete genome	undefined	1	SAMN30553137	NBC_00566	Streptomyces sp. NBC_00566	
+GCA_026341855.1	Contig	JAPENW000000000	undefined	SAMN30553138	NBC_00568	Streptomyces sp. NBC_00568	
+GCA_036345255.1	Complete genome	undefined	1	SAMN30553139	NBC_00569	Streptomyces sp. NBC_00569	
+GCA_026341815.1	Contig	JAPENX000000000	undefined	SAMN24016251	NBC_00572	Streptomyces sp. NBC_00572	
+GCA_036345175.1	Complete genome	undefined	2	SAMN24016253	NBC_00576	Streptomyces sp. NBC_00576	
+GCA_036345155.1	Complete genome	undefined	2	SAMN30553142	NBC_00582	Streptomyces sp. NBC_00582	
+GCA_036345095.1	Complete genome	undefined	1	SAMN30553145	NBC_00588	Streptomyces sp. NBC_00588	
+GCA_036345075.1	Complete genome	undefined	1	SAMN30553146	NBC_00589	Streptomyces sp. NBC_00589	
+GCA_041431095.1	Complete genome	undefined	3	SAMN30553149	NBC_00597	Streptomyces sp. NBC_00597	
+GCA_026341825.1	Contig	JAPENY000000000	undefined	SAMN24016258	NBC_00620	Streptomyces sp. NBC_00620	
+GCA_026341795.1	Contig	JAPENZ000000000	undefined	SAMN30553163	NBC_00638	Streptomyces sp. NBC_00638	
+GCA_026341775.1	Contig	JAPEOB000000000	undefined	SAMN30553170	NBC_00654	Streptomyces sp. NBC_00654	
+GCA_036226925.1	Complete genome	undefined	1	SAMN24016267	NBC 00659	Streptomyces sp. NBC_00659	
+GCA_036226885.1	Complete genome	undefined	2	SAMN30553174	NBC_00663	Streptomyces sp. NBC_00663	
+GCA_036226865.1	Complete genome	undefined	2	SAMN30553175	NBC_00664	Streptomyces sp. NBC_00664	
+GCA_036226825.1	Complete genome	undefined	2	SAMN30553177	NBC_00667	Streptomyces sp. NBC_00667	
+GCA_036226785.1	Complete genome	undefined	1	SAMN30553178	NBC_00669	Streptomyces sp. NBC_00669	
+GCA_036226765.1	Complete genome	undefined	1	SAMN30553179	NBC_00670	Streptomyces sp. NBC_00670	
+GCA_036226745.1	Complete genome	undefined	1	SAMN24016269	NBC_00683	Streptomyces sp. NBC_00683	
+GCA_026341695.1	Contig	JAPEOD000000000	undefined	SAMN30553186	NBC_00687	Streptomyces sp. NBC_00687	
+GCA_036226685.1	Complete genome	undefined	2	SAMN30553187	NBC_00690	Streptomyces sp. NBC_00690	
+GCA_036226665.1	Complete genome	undefined	2	SAMN24016270	NBC_00691	Streptomyces sp. NBC_00691	
+GCA_036226645.1	Complete genome	undefined	1	SAMN24016271	NBC_00696	Streptomyces sp. NBC_00696	
+GCA_036226605.1	Complete genome	undefined	3	SAMN30553190	NBC_00704	Streptomyces sp. NBC_00704	
+GCA_036226585.1	Complete genome	undefined	3	SAMN30553191	NBC_00708	Streptomyces sp. NBC_00708	
+GCA_036347195.1	Complete genome	undefined	2	SAMN30553198	NBC_00724	Streptomyces sp. NBC_00724	
+GCA_036347135.1	Complete genome	undefined	1	SAMN30553223	NBC_00775	Streptomyces sp. NBC_00775	
+GCA_036347055.1	Complete genome	undefined	1	SAMN30553250	NBC_00820	Streptomyces sp. NBC_00820	
+GCA_036347015.1	Complete genome	undefined	2	SAMN30553252	NBC_00822	Streptomyces sp. NBC_00822	
+GCA_036346995.1	Complete genome	undefined	2	SAMN30553253	NBC_00825	Streptomyces sp. NBC_00825	
+GCA_035917315.1	Complete genome	undefined	3	SAMN30553256	NBC_00841	Streptomyces sp. NBC_00841	
+GCA_026341595.1	Contig	JAPEOJ000000000	undefined	SAMN30553260	NBC_00847	Streptomyces sp. NBC_00847	
+GCA_036346935.1	Complete genome	undefined	2	SAMN24016295	NBC_00869	Streptomyces sp. NBC_00869	
+GCA_026341515.1	Contig	JAPEOK000000000	undefined	SAMN30553275	NBC_00878	Streptomyces sp. NBC_00878	
+GCA_026341545.1	Contig	JAPEOL000000000	undefined	SAMN30553285	NBC_00892	Streptomyces sp. NBC_00892	
+GCA_026341295.1	Contig	JAPEOM000000000	undefined	SAMN30553286	NBC_00893	Streptomyces sp. NBC_00893	
+GCA_026341115.1	Contig	JAPEON000000000	undefined	SAMN24016299	NBC_00906	Streptomyces sp. NBC_00906	
+GCA_041435515.1	Chromosome	undefined	2	SAMN30553292	NBC_01007	Streptomyces sp. NBC_01007	
+GCA_026341035.1	Contig	JAPEOQ000000000	undefined	SAMN24016346	NBC_01016	Streptomyces sp. NBC_01016	
+GCA_035917295.1	Complete genome	undefined	2	SAMN24016351	NBC_01022	Streptomyces sp. NBC_01022	
+GCA_041435495.1	Complete genome	undefined	3	SAMN24016391	NBC_01116	Streptomyces sp. NBC_01116	
+GCA_026341125.1	Contig	JAPEOR000000000	undefined	SAMN30553294	NBC_01142	Streptomyces sp. NBC_01142	
+GCA_036013045.1	Complete genome	undefined	2	SAMN24016415	NBC_01186	Streptomyces sp. NBC_01186	
+GCA_036010505.1	Complete genome	undefined	2	SAMN24016423	NBC_01197	Streptomyces sp. NBC_01197	
+GCA_036010485.1	Complete genome	undefined	1	SAMN24016424	NBC_01198	Streptomyces sp. NBC_01198	
+GCA_036010445.1	Complete genome	undefined	2	SAMN24016426	NBC_01201	Streptomyces sp. NBC_01201	
+GCA_036010385.1	Complete genome	undefined	4	SAMN24016429	NBC_01205	Streptomyces sp. NBC_01205	
+GCA_036010365.1	Complete genome	undefined	3	SAMN24016430	NBC_01207	Streptomyces sp. NBC_01207	
+GCA_036010345.1	Complete genome	undefined	3	SAMN24016431	NBC_01208	Streptomyces sp. NBC_01208	
+GCA_036010325.1	Complete genome	undefined	2	SAMN24016432	NBC_01210	Streptomyces sp. NBC_01210	
+GCA_036010285.1	Complete genome	undefined	1	SAMN24016434	NBC_01212	Streptomyces sp. NBC_01212	
+GCA_041435475.1	Complete genome	undefined	4	SAMN24016435	NBC_01213	Streptomyces sp. NBC_01213	
+GCA_026340975.1	Contig	JAPEOS000000000	undefined	SAMN24016436	NBC_01214	Streptomyces sp. NBC_01214	
+GCA_035994945.1	Complete genome	undefined	4	SAMN24016438	NBC_01216	Streptomyces sp. NBC_01216	
+GCA_035994185.1	Complete genome	undefined	2	SAMN24016439	NBC_01217	Streptomyces sp. NBC_01217	
+GCA_035993425.1	Complete genome	undefined	2	SAMN24016440	NBC_01218	Streptomyces sp. NBC_01218	
+GCA_041435455.1	Complete genome	undefined	5	SAMN24016441	NBC_01220	Streptomyces sp. NBC_01220	
+GCA_026340925.1	Contig	JAPEOT000000000	undefined	SAMN24016442	NBC_01221	Streptomyces sp. NBC_01221	
+GCA_036002945.1	Complete genome	undefined	2	SAMN24016443	NBC_01224	Streptomyces sp. NBC_01224	
+GCA_035991645.1	Complete genome	undefined	2	SAMN24016446	NBC_01230	Streptomyces sp. NBC_01230	
+GCA_035999765.1	Complete genome	undefined	1	SAMN24016447	NBC_01231	Streptomyces sp. NBC_01231	
+GCA_035989885.1	Complete genome	undefined	3	SAMN24016448	NBC_01232	Streptomyces sp. NBC_01232	
+GCA_035989305.1	Complete genome	undefined	4	SAMN24016449	NBC_01233	Streptomyces sp. NBC_01233	
+GCA_035989285.1	Complete genome	undefined	1	SAMN24016450	NBC_01235	Streptomyces sp. NBC_01235	
+GCA_035996785.1	Complete genome	undefined	1	SAMN24016451	NBC_01236	Streptomyces sp. NBC_01236	
+GCA_035917275.1	Complete genome	undefined	4	SAMN24016452	NBC_01237	Streptomyces sp. NBC_01237	
+GCA_026340815.1	Contig	JAPEOU000000000	undefined	SAMN24016454	NBC_01239	Streptomyces sp. NBC_01239	
+GCA_035988865.1	Complete genome	undefined	4	SAMN24016455	NBC_01240	Streptomyces sp. NBC_01240	
+GCA_041435435.1	Complete genome	undefined	3	SAMN24016456	NBC_01241	Streptomyces sp. NBC_01241	
+GCA_026340885.1	Contig	JAPEOV000000000	undefined	SAMN24016457	NBC_01242	Streptomyces sp. NBC_01242	
+GCA_035988225.1	Complete genome	undefined	3	SAMN24016458	NBC_01243	Streptomyces sp. NBC_01243	
+GCA_035987325.1	Complete genome	undefined	3	SAMN24016459	NBC_01244	Streptomyces sp. NBC_01244	
+GCA_036226445.1	Complete genome	undefined	2	SAMN24016465	NBC_01255	Streptomyces sp. NBC_01255	
+GCA_035917255.1	Complete genome	undefined	1	SAMN24016467	NBC_01257	Streptomyces sp. NBC_01257	
+GCA_041435395.1	Complete genome	undefined	5	SAMN24016468	NBC_01259	Streptomyces sp. NBC_01259	
+GCA_036226405.1	Complete genome	undefined	3	SAMN24016469	NBC_01260	Streptomyces sp. NBC_01260	
+GCA_036226385.1	Complete genome	undefined	1	SAMN24016470	NBC_01261	Streptomyces sp. NBC_01261	
+GCA_036226365.1	Complete genome	undefined	1	SAMN24016471	NBC_01262	Streptomyces sp. NBC_01262	
+GCA_026340675.1	Contig	JAPEOX000000000	undefined	SAMN24016473	NBC_01264	Streptomyces sp. NBC_01264	
+GCA_036241575.1	Complete genome	undefined	3	SAMN24016476	NBC_01267	Streptomyces sp. NBC_01267	
+GCA_036240795.1	Complete genome	undefined	1	SAMN24016477	NBC_01268	Streptomyces sp. NBC_01268	
+GCA_026340655.1	Contig	JAPEOZ000000000	undefined	SAMN24016483	NBC_01275	Streptomyces sp. NBC_01275	
+GCA_041435355.1	Complete genome	undefined	5	SAMN24016484	NBC_01276	Streptomyces sp. NBC_01276	
+GCA_036237395.1	Complete genome	undefined	3	SAMN24016485	NBC_01278	Streptomyces sp. NBC_01278	
+GCA_036237375.1	Complete genome	undefined	1	SAMN24016486	NBC_01280	Streptomyces sp. NBC_01280	
+GCA_035983575.1	Complete genome	undefined	3	SAMN24016487	NBC_01281	Streptomyces sp. NBC_01281	
+GCA_041435335.1	Chromosome	undefined	1	SAMN24016488	NBC_01283	Streptomyces sp. NBC_01283	
+GCA_026340825.1	Contig	JAPEPA000000000	undefined	SAMN24016489	NBC_01285	Streptomyces sp. NBC_01285	
+GCA_035982055.1	Complete genome	undefined	1	SAMN24016492	NBC_01288	Streptomyces sp. NBC_01288	
+GCA_035917235.1	Complete genome	undefined	2	SAMN24016495	NBC_01294	Streptomyces sp. NBC_01294	
+GCA_035984415.1	Complete genome	undefined	2	SAMN24016497	NBC_01296	Streptomyces sp. NBC_01296	
+GCA_035978755.1	Complete genome	undefined	5	SAMN24016499	NBC_01298	Streptomyces sp. NBC_01298	
+GCA_035975855.1	Complete genome	undefined	4	SAMN24016503	NBC_01304	Streptomyces sp. NBC_01304	
+GCA_026340465.1	Contig	JAPEPC000000000	undefined	SAMN24016504	NBC_01306	Streptomyces sp. NBC_01306	
+GCA_035974395.1	Complete genome	undefined	4	SAMN24016507	NBC_01310	Streptomyces sp. NBC_01310	
+GCA_041435215.1	Complete genome	undefined	2	SAMN24016508	NBC_01314	Streptomyces sp. NBC_01314	
+GCA_035961655.1	Complete genome	undefined	1	SAMN24016509	NBC_01317	Streptomyces sp. NBC_01317	
+GCA_035974355.1	Complete genome	undefined	1	SAMN24016510	NBC_01318	Streptomyces sp. NBC_01318	
+GCA_035974375.1	Complete genome	undefined	2	SAMN24016511	NBC_01320	Streptomyces sp. NBC_01320	
+GCA_035974335.1	Complete genome	undefined	2	SAMN24016512	NBC_01321	Streptomyces sp. NBC_01321	
+GCA_035960815.1	Complete genome	undefined	3	SAMN24016513	NBC_01324	Streptomyces sp. NBC_01324	
+GCA_035983595.1	Complete genome	undefined	2	SAMN24016521	NBC_01334	Streptomyces sp. NBC_01334	
+GCA_035953295.1	Complete genome	undefined	4	SAMN24016522	NBC_01335	Streptomyces sp. NBC_01335	
+GCA_035952475.1	Complete genome	undefined	1	SAMN24016523	NBC_01336	Streptomyces sp. NBC_01336	
+GCA_035949105.1	Complete genome	undefined	2	SAMN24016526	NBC_01340	Streptomyces sp. NBC_01340	
+GCA_035946055.1	Complete genome	undefined	1	SAMN24016527	NBC_01341	Streptomyces sp. NBC_01341	
+GCA_035943135.1	Complete genome	undefined	2	SAMN24016528	NBC_01343	Streptomyces sp. NBC_01343	
+GCA_036237315.1	Complete genome	undefined	3	SAMN24016533	NBC_01351	Streptomyces sp. NBC_01351	
+GCA_036237295.1	Complete genome	undefined	2	SAMN24016534	NBC_01352	Streptomyces sp. NBC_01352	
+GCA_036237275.1	Complete genome	undefined	2	SAMN24016535	NBC_01353	Streptomyces sp. NBC_01353	
+GCA_036237235.1	Complete genome	undefined	1	SAMN24016537	NBC_01356	Streptomyces sp. NBC_01356	
+GCA_036237215.1	Complete genome	undefined	1	SAMN24016538	NBC_01358	Streptomyces sp. NBC_01358	
+GCA_036250945.1	Complete genome	undefined	3	SAMN24016541	NBC_01361	Streptomyces sp. NBC_01361	
+GCA_036250835.1	Complete genome	undefined	3	SAMN24016542	NBC_01362	Streptomyces sp. NBC_01362	
+GCA_026340595.1	Contig	JAPEPF000000000	undefined	SAMN24016543	NBC_01363	Streptomyces sp. NBC_01363	
+GCA_026340395.1	Contig	JAPEPG000000000	undefined	SAMN24016550	NBC_01373	Streptomyces sp. NBC_01373	
+GCA_026340305.1	Contig	JAPEPI000000000	undefined	SAMN24016555	NBC_01381	Streptomyces sp. NBC_01381	
+GCA_041438945.1	Chromosome	undefined	1	SAMN24016567	NBC_01397	Streptomyces sp. NBC_01397	
+GCA_026340255.1	Contig	JAPEPJ000000000	undefined	SAMN24016571	NBC_01408	Streptomyces sp. NBC_01408	
+GCA_036232025.1	Complete genome	undefined	3	SAMN24016583	NBC_01422	Streptomyces sp. NBC_01422	
+GCA_036232005.1	Complete genome	undefined	2	SAMN24016584	NBC_01423	Streptomyces sp. NBC_01423	
+GCA_036231985.1	Complete genome	undefined	6	SAMN30553297	NBC_01426	Streptomyces sp. NBC_01426	
+GCA_036231965.1	Complete genome	undefined	1	SAMN24016586	NBC_01428	Streptomyces sp. NBC_01428	
+GCA_036231945.1	Complete genome	undefined	1	SAMN24016587	NBC_01429	Streptomyces sp. NBC_01429	
+GCA_036231355.1	Complete genome	undefined	3	SAMN24016588	NBC_01431	Streptomyces sp. NBC_01431	
+GCA_026340105.1	Contig	JAPEPM000000000	undefined	SAMN24016590	NBC_01433	Streptomyces sp. NBC_01433	
+GCA_036228565.1	Complete genome	undefined	3	SAMN24016591	NBC_01435	Streptomyces sp. NBC_01435	
+GCA_041438905.1	Complete genome	undefined	2	SAMN24016594	NBC_01438	Streptomyces sp. NBC_01438	
+GCA_036227605.1	Complete genome	undefined	1	SAMN24016595	NBC_01439	Streptomyces sp. NBC_01439	
+GCA_026340075.1	Contig	JAPEPN000000000	undefined	SAMN24016596	NBC_01443	Streptomyces sp. NBC_01443	
+GCA_035918235.1	Complete genome	undefined	2	SAMN24016597	NBC_01445	Streptomyces sp. NBC_01445	
+GCA_026340095.1	Contig	JAPEPO000000000	undefined	SAMN24016598	NBC_01446	Streptomyces sp. NBC_01446	
+GCA_036227505.1	Complete genome	undefined	3	SAMN24016600	NBC_01450	Streptomyces sp. NBC_01450	
+GCA_036227485.1	Complete genome	undefined	1	SAMN24016601	NBC_01451	Streptomyces sp. NBC_01451	
+GCA_036227465.1	Complete genome	undefined	1	SAMN24016602	NBC_01453	Streptomyces sp. NBC_01453	
+GCA_036227565.1	Complete genome	undefined	5	SAMN30553298	NBC_01454	Streptomyces sp. NBC_01454	
+GCA_036227445.1	Complete genome	undefined	3	SAMN24016603	NBC_01455	Streptomyces sp. NBC_01455	
+GCA_036227425.1	Complete genome	undefined	5	SAMN30553299	NBC_01456	Streptomyces sp. NBC_01456	
+GCA_036227405.1	Complete genome	undefined	2	SAMN24016605	NBC_01460	Streptomyces sp. NBC_01460	
+GCA_036227365.1	Complete genome	undefined	2	SAMN24016607	NBC_01462	Streptomyces sp. NBC_01462	
+GCA_036227345.1	Complete genome	undefined	2	SAMN24016608	NBC_01463	Streptomyces sp. NBC_01463	
+GCA_036227325.1	Complete genome	undefined	1	SAMN24016610	NBC_01465	Streptomyces sp. NBC_01465	
+GCA_041438865.1	Complete genome	undefined	3	SAMN24016612	NBC_01471	Streptomyces sp. NBC_01471	
+GCA_035918215.1	Complete genome	undefined	1	SAMN24016614	NBC_01474	Streptomyces sp. NBC_01474	
+GCA_036227265.1	Complete genome	undefined	1	SAMN24016616	NBC_01476	Streptomyces sp. NBC_01476	
+GCA_036227245.1	Complete genome	undefined	1	SAMN30553301	NBC_01477	Streptomyces sp. NBC_01477	
+GCA_036227225.1	Complete genome	undefined	1	SAMN24016617	NBC_01478	Streptomyces sp. NBC_01478	
+GCA_026339995.1	Contig	JAPEPT000000000	undefined	SAMN30553302	NBC_01481	Streptomyces sp. NBC_01481	
+GCA_036227165.1	Complete genome	undefined	3	SAMN24016620	NBC_01483	Streptomyces sp. NBC_01483	
+GCA_036227125.1	Complete genome	undefined	2	SAMN24016622	NBC_01485	Streptomyces sp. NBC_01485	
+GCA_036250695.1	Complete genome	undefined	2	SAMN24016627	NBC_01497	Streptomyces sp. NBC_01497	
+GCA_036327775.1	Complete genome	undefined	1	SAMN30553304	NBC_01498	Streptomyces sp. NBC_01498	
+GCA_026339975.1	Contig	JAPEPU000000000	undefined	SAMN24016629	NBC_01500	Streptomyces sp. NBC_01500	
+GCA_026339955.1	Contig	JAPEPW000000000	undefined	SAMN30553313	NBC_01549	Streptomyces sp. NBC_01549	
+GCA_026339935.1	Contig	JAPEPX000000000	undefined	SAMN30553315	NBC_01551	Streptomyces sp. NBC_01551	
+GCA_035918195.1	Complete genome	undefined	3	SAMN30553320	NBC_01558	Streptomyces sp. NBC_01558	
+GCA_026339915.1	Contig	JAPEPY000000000	undefined	SAMN30553325	NBC_01565	Streptomyces sp. NBC_01565	
+GCA_026339875.1	Contig	JAPEPZ000000000	undefined	SAMN30553327	NBC_01571	Streptomyces sp. NBC_01571	
+GCA_035918155.1	Complete genome	undefined	3	SAMN30553338	NBC_01591	Streptomyces sp. NBC_01591	
+GCA_036208025.1	Complete genome	undefined	3	SAMN30553345	NBC_01601	Streptomyces sp. NBC_01601	
+GCA_026339835.1	Contig	JAPEQB000000000	undefined	SAMN30553359	NBC_01619	Streptomyces sp. NBC_01619	
+GCA_026339735.1	Contig	JAPEQG000000000	undefined	SAMN30553397	NBC_01669	Streptomyces sp. NBC_01669	
+GCA_036226985.1	Complete genome	undefined	1	SAMN30553411	NBC_01685	Streptomyces sp. NBC_01685	
+GCA_036250675.1	Complete genome	undefined	2	SAMN30553414	NBC_01689	Streptomyces sp. NBC_01689	
+GCA_036250635.1	Complete genome	undefined	1	SAMN30553417	NBC_01693	Streptomyces sp. NBC_01693	
+GCA_036250085.1	Complete genome	undefined	1	SAMN30553419	NBC_01696	Streptomyces sp. NBC_01696	
+GCA_041438805.1	Complete genome	undefined	3	SAMN30553425	NBC_01707	Streptomyces sp. NBC_01707	
+GCA_036248545.1	Complete genome	undefined	2	SAMN30553426	NBC_01708	Streptomyces sp. NBC_01708	
+GCA_036248295.1	Complete genome	undefined	1	SAMN30553429	NBC_01715	Streptomyces sp. NBC_01715	
+GCA_036248275.1	Complete genome	undefined	1	SAMN30553430	NBC_01716	Streptomyces sp. NBC_01716	
+GCA_036248255.1	Complete genome	undefined	3	SAMN30553431	NBC_01717	Streptomyces sp. NBC_01717	
+GCA_041438725.1	Complete genome	undefined	4	SAMN30553432	NBC_01718	Streptomyces sp. NBC_01718	
+GCA_026339655.1	Contig	JAPEQL000000000	undefined	SAMN30553433	NBC_01719	Streptomyces sp. NBC_01719	
+GCA_036246005.1	Complete genome	undefined	2	SAMN30553436	NBC_01723	Streptomyces sp. NBC_01723	
+GCA_036244815.1	Complete genome	undefined	2	SAMN30553437	NBC_01724	Streptomyces sp. NBC_01724	
+GCA_036243895.1	Complete genome	undefined	2	SAMN30553438	NBC_01725	Streptomyces sp. NBC_01725	
+GCA_035920465.1	Complete genome	undefined	3	SAMN30553440	NBC_01727	Streptomyces sp. NBC_01727	
+GCA_026339615.1	Contig	JAPEQN000000000	undefined	SAMN30553441	NBC_01728	Streptomyces sp. NBC_01728	
+GCA_041438685.1	Complete genome	undefined	5	SAMN30553443	NBC_01732	Streptomyces sp. NBC_01732	
+GCA_035920325.1	Complete genome	undefined	1	SAMN30553452	NBC_01744	Streptomyces sp. NBC_01744	
+GCA_035918095.1	Complete genome	undefined	3	SAMN30553457	NBC_01750	Streptomyces sp. NBC_01750	
+GCA_035918075.1	Complete genome	undefined	1	SAMN30553458	NBC_01751	Streptomyces sp. NBC_01751	
+GCA_035918015.1	Complete genome	undefined	2	SAMN30553461	NBC_01754	Streptomyces sp. NBC_01754	
+GCA_035917935.1	Complete genome	undefined	1	SAMN30553467	NBC_01760	Streptomyces sp. NBC_01760	
+GCA_035917895.1	Complete genome	undefined	1	SAMN30553468	NBC_01761	Streptomyces sp. NBC_01761	
+GCA_035917875.1	Complete genome	undefined	1	SAMN30553469	NBC_01762	Streptomyces sp. NBC_01762	
+GCA_035917855.1	Complete genome	undefined	1	SAMN30553470	NBC_01763	Streptomyces sp. NBC_01763	
+GCA_026339555.1	Contig	JAPEQQ000000000	undefined	SAMN30553471	NBC_01764	Streptomyces sp. NBC_01764	
+GCA_035917815.1	Complete genome	undefined	3	SAMN30553472	NBC_01766	Streptomyces sp. NBC_01766	
+GCA_026339515.1	Contig	JAPEQR000000000	undefined	SAMN30553473	NBC_01767	Streptomyces sp. NBC_01767	
+GCA_035917835.1	Complete genome	undefined	3	SAMN30553474	NBC_01768	Streptomyces sp. NBC_01768	
+GCA_035917675.1	Complete genome	undefined	2	SAMN30553481	NBC_01775	Streptomyces sp. NBC_01775	
+GCA_035917575.1	Complete genome	undefined	1	SAMN30553487	NBC_01788	Streptomyces sp. NBC_01788	
+GCA_026339475.1	Contig	JAPEQS000000000	undefined	SAMN30553488	NBC_01789	Streptomyces sp. NBC_01789	
+GCA_035917535.1	Complete genome	undefined	2	SAMN30553493	NBC_01795	Streptomyces sp. NBC_01795	
+GCA_035917515.1	Complete genome	undefined	1	SAMN30553496	NBC_01799	Streptomyces sp. NBC_01799	
+GCA_035917495.1	Complete genome	undefined	1	SAMN30553497	NBC_01800	Streptomyces sp. NBC_01800	
+GCA_035917415.1	Complete genome	undefined	1	SAMN30553499	NBC_01803	Streptomyces sp. NBC_01803	
+GCA_035917395.1	Complete genome	undefined	1	SAMN30553500	NBC_01808	Streptomyces sp. NBC_01808	
+GCA_035959875.1	Complete genome	undefined	4	SAMN24016514	NBC_01325	Streptomyces subrutilus	
+GCA_036204065.1	Complete genome	undefined	1	SAMN24016183	NBC_00189	Streptomyces tauricus	
+GCA_035979555.1	Complete genome	undefined	1	SAMN24016498	NBC_01297	Streptomyces tubercidicus	
+GCA_036013785.1	Complete genome	undefined	1	SAMN24016232	NBC_00475	Streptomyces tubercidicus	
+GCA_041434035.2	Complete genome	undefined	1	SAMN30553053	NBC 00383	Streptomyces tubercidicus	
+GCA_026340285.1	Contig	JAPEPH000000000	undefined	SAMN24016554	NBC_01379	Streptomyces uncialis	
+GCA_036250755.1	Complete genome	undefined	3	SAMN24016544	NBC_01365	Streptomyces uncialis	
+GCA_036226305.1	Complete genome	undefined	1	SAMN30552993	NBC_00293	Streptomyces violaceus	
+GCA_036014075.1	Complete genome	undefined	2	SAMN24016225	NBC_00450	Streptomyces violaceus	
+GCA_036014055.1	Complete genome	undefined	1	SAMN30553082	NBC_00456	Streptomyces violaceus	
+GCA_026340475.1	Contig	JAPEPD000000000	undefined	SAMN30553295	NBC_01311	Streptomyces virginiae	
+GCA_026341715.1	Contig	JAPEOA000000000	undefined	SAMN30553164	NBC_00640	Streptomyces virginiae	
+GCA_026342285.1	Contig	JAPEMZ000000000	undefined	SAMN30552983	NBC_00276	Streptomyces virginiae	
+GCA_026342475.1	Contig	JAPEMQ000000000	undefined	SAMN30552963	NBC_00227	Streptomyces virginiae	
+GCA_035917955.1	Complete genome	undefined	3	SAMN30553465	NBC 01758	Streptomyces virginiae	
+GCA_036226625.1	Complete genome	undefined	1	SAMN24016272	NBC_00701	Streptomyces virginiae	
+GCA_036193325.1	Complete genome	undefined	3	SAMN24016200	NBC_00248	Streptomyces virginiae	
+GCA_036173085.1	Complete genome	undefined	1	SAMN24016208	NBC_00288	Streptomyces virginiae	
+GCA_041435075.1	Chromosome	undefined	1	SAMN30553011	NBC 00324	Streptomyces virginiae	
+GCA_041435175.1	Complete genome	undefined	2	SAMN24016193	NBC 00226	Streptomyces virginiae	
+GCA_041432505.1	Complete genome	undefined	6	SAMN24016234	NBC 00488	Streptomyces virginiae	
+GCA_036006205.1	Complete genome	undefined	1	SAMN24016437	NBC_01215	Streptomyces xinghaiensis	
+GCA_036035005.1	Complete genome	undefined	2	SAMN24016217	NBC_00415	Streptomyces zaomyceticus	
+GCA_035991205.1	Complete genome	undefined	4	SAMN24016445	NBC_01228	Streptomyces zaomyceticus	
+GCA_041435155.1	Complete genome	undefined	3	SAMN30552985	NBC 00278	Streptomyces zaomyceticus	
+GCA_036227305.1	Complete genome	undefined	2	SAMN24016611	NBC_01469	Streptosporangium sp. NBC_01469	
+GCA_036250735.1	Complete genome	undefined	2	SAMN24016625	NBC_01495	Streptosporangium sp. NBC_01495	
+GCA_035917995.1	Complete genome	undefined	1	SAMN30553462	NBC_01755	Streptosporangium sp. NBC_01755	
+GCA_035917975.1	Complete genome	undefined	1	SAMN30553463	NBC_01756	Streptosporangium sp. NBC_01756	
+GCA_035917355.1	Complete genome	undefined	1	SAMN30553502	NBC_01810	Streptosporangium sp. NBC_01810	
+GCA_041438065.1	Complete genome	undefined	2	SAMN30553503	NBC 01811	Streptosporangium subroseum	
+GCA_036153515.1	Complete genome	undefined	1	SAMN24016210	NBC_00319	Williamsia herbipolensis	
+GCA_026339595.1	Contig	JAPEQM000000000	undefined	SAMN30553434	NBC_01721	[Kitasatospora] papulosa	
+GCA_036240075.1	Complete genome	undefined	2	SAMN24016478	NBC_01269	[Kitasatospora] papulosa	
+GCA_036237255.1	Complete genome	undefined	1	SAMN24016536	NBC_01355	[Kitasatospora] papulosa	
+GCA_036237335.1	Complete genome	undefined	1	SAMN24016532	NBC_01347	[Kitasatospora] papulosa	
+GCA_035940175.1	Complete genome	undefined	1	SAMN24016529	NBC_01344	[Kitasatospora] papulosa	
+GCA_035980495.1	Complete genome	undefined	1	SAMN24016496	NBC_01295	[Kitasatospora] papulosa	

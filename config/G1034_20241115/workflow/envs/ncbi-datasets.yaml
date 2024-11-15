@@ -1,0 +1,12 @@
+name: ncbi-datasets
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - jupyterlab
+  - pandas
+  - pip
+  - ncbi-datasets-cli
+  - pip:
+    - ncbi-acc-download

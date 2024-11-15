@@ -1,0 +1,25 @@
+import pandas as pd
+from pathlib import Path
+
+configfile: "project_config.yaml"
+
+df = pd.read_csv(config["sample_table"], sep="\t").set_index("strain_name", drop=False)
+
+STRAINS = df["strain_name"].dropna().tolist()
+ASSEMBLIES = df[~df["Assembly"].isna()]["strain_name"].tolist()
+NON_ASSEMBLIES = df[df["Assembly"].isna()]["strain_name"].tolist()
+
+
+##### 3. Wildcard constraints #####
+wildcard_constraints:
+    strains="|".join(STRAINS),
+    assemblies="|".join(ASSEMBLIES),
+    non_assemblies="|".join(NON_ASSEMBLIES),
+
+rule all:
+    input:
+        expand("input_files/{strains}.gbk", strains=STRAINS),
+        #expand("input_files/{non_assemblies}.gbk", non_assemblies=NON_ASSEMBLIES)
+
+include: "rules/download_assembly.smk"
+include: "rules/download_contigs.smk"

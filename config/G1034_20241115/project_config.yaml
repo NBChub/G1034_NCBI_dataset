@@ -1,0 +1,5 @@
+description: "Actinomycetes strain collection NBC G1034 reconstructed from NCBI. This project utilizes genbanks as the input file"
+name: G1034_20241115
+pep_version: 2.1.0
+sample_table: samples.tsv
+input_folder: "../../data/external/G1034_NCBI/genbank"

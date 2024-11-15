@@ -1,3 +1,5 @@
 **/*.ipynb_checkpoints
 .snakemake
 **/*.panoptes*
+config/G1034_20241115/input_files/
+config/G1034_20241115/logs/
