@@ -3,11 +3,11 @@ from pathlib import Path
 
 configfile: "project_config.yaml"
 
-df = pd.read_csv(config["sample_table"], sep="\t").set_index("strain_name", drop=False)
+df = pd.read_csv(config["sample_table"]).set_index("genome_id", drop=False)
 
-STRAINS = df["strain_name"].dropna().tolist()
-ASSEMBLIES = df[~df["Assembly"].isna()]["strain_name"].tolist()
-NON_ASSEMBLIES = df[df["Assembly"].isna()]["strain_name"].tolist()
+STRAINS = df["genome_id"].dropna().tolist()
+ASSEMBLIES = df[~df["Assembly"].isna()]["genome_id"].tolist()
+NON_ASSEMBLIES = df[df["Assembly"].isna()]["genome_id"].tolist()
 
 
 ##### 3. Wildcard constraints #####
