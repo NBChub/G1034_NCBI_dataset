@@ -8,21 +8,66 @@ List of samples are taken from [the supplementary materials of the publication](
 
 `[TO DO]` The folder structure is designed to be compatible with BGCFlow.
 
+## Pre-requisite
+1. You need mamba installed. We recommend installing [miniforge](https://github.com/conda-forge/miniforge).
+2. Install BGCFlow
+
+    Skip this if you already have BGCFlow installed
+    ```bash
+    # create and activate a new conda environment
+    mamba create -n bgcflow -c conda-forge python=3.11 pip openjdk -y # also install java for metabase
+    conda activate bgcflow
+
+    # install `BGCFlow` wrapper
+    pip install bgcflow_wrapper
+
+    # make sure to use bgcflow_wrapper version >= 0.2.7
+    bgcflow --version
+
+    # Set conda channel priorities to flexible
+    conda config --set channel_priority disabled
+    conda config --describe channel_priority
+
+    # Deploy and test run BGCFlow
+    bgcflow clone bgcflow # clone `BGCFlow` a directory named bgcflow
+    (cd bgcflow && bgcflow init) # initiate `BGCFlow` config and examples from template
+    (cd bgcflow && bgcflow run -n) # do a dry run, remove the flag "-n" to run the example dataset
+    ```
+
 ## Usage
 
-1. Install the conda environment
+1. Clone the repo
+    ```bash
+    git clone git@github.com:NBChub/G1034_NCBI_dataset.git
+    cd G1034_NCBI_dataset
+    ```
 
-```bash
-mamba env create -f env.yaml
-```
+2. Install the conda environment
 
-2. Run the workflow
+    ```bash
+    mamba env create -f env.yaml
+    ```
 
-Run the command as it is or modify the snakemake parameters to your liking
+3. Run the workflow to fetch the genbanks from NCBI
 
-```bash
-(cd config/G1034_20241115/ && snakemake --use-conda -c 8 -n)
-```
+    Run the command as it is or modify the snakemake parameters to your liking
+
+    ```bash
+    conda activate g1034
+    (cd config/G1034_20241115/ && snakemake --use-conda -c 8 -n) # remove the -n to execute
+    conda deactivate
+    ```
+
+    _**PS:** Depending on the network traffic, some downloads might fail. Re-run the command again to retry downloading_.
+
+4. Create a symlink to existing BGCFlow clone.
+
+    ```bash
+    BGCFLOW_PATH="../bgcflow" # CHANGE THIS ACCORDINGLY
+    ln -s $BGCFLOW_PATH/.snakemake/ .snakemake
+    ln -s $BGCFLOW_PATH/workflow/ workflow
+    ln -s $BGCFLOW_PATH/resources/ resources
+    ```
 
 ## Output
 The downloaded genbanks will be located in `config/G1034_20241115/input_files`
