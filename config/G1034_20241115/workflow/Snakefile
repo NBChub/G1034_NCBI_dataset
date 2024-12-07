@@ -1,9 +1,7 @@
 import pandas as pd
 from pathlib import Path
 
-configfile: "project_config.yaml"
-
-df = pd.read_csv(config["sample_table"]).set_index("genome_id", drop=False)
+df = pd.read_csv("samples.csv").set_index("genome_id", drop=False)
 
 STRAINS = df["genome_id"].dropna().tolist()
 ASSEMBLIES = df[~df["Assembly"].isna()]["genome_id"].tolist()

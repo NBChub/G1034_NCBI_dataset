@@ -1,7 +1,7 @@
-description: "Actinomycetes strain collection NBC G1034 reconstructed from NCBI. This project utilizes genbanks as the input file"
+description: "Actinomycetes strain collection NBC G1034 reconstructed from NCBI. This project utilizes genbanks as the input file. Two genomes: NBC_01310 and NBC_01080 invokes circularity issue with antiSMASH."
 name: G1034_20241115
 pep_version: 2.1.0
-sample_table: samples.csv
+sample_table: samples_curated.csv
 input_folder: "input_files"
 input_type: "gbk"
 gtdb-tax: gtdbtk.bac120.summary.tsv

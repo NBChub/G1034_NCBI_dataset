@@ -60,7 +60,14 @@ List of samples are taken from [the supplementary materials of the publication](
 
     _**PS:** Depending on the network traffic, some downloads might fail. Re-run the command again to retry downloading_.
 
-4. Create a symlink to existing BGCFlow clone.
+4. Remove manually curated problematic genes using jupyter notebook:
+    ```bash
+    conda activate g1034
+    (cd config/G1034_20241115/notebooks && jupyter notebook 01_manual_curation.ipynb)
+    conda deactivate
+    ```
+
+5. Create a symlink to existing BGCFlow clone.
 
     ```bash
     BGCFLOW_PATH="../bgcflow" # CHANGE THIS ACCORDINGLY
